@@ -1,0 +1,76 @@
+@charset "UTF-8";
+
+    body{
+        background-color: black;
+        background-size: cover;
+        background-attachment: fixed;
+    }
+    .cont2{
+        border-radius: 100%;
+        width: 180px;
+        height: 180px;
+        background-color: rgb(9, 9, 146);
+        margin-left: 410px;
+        margin-top: 40px;
+        
+    }
+    .cont3{
+        border-radius: 100%;
+        width: 180px;
+        height: 180px;
+        background-color: orangered;
+        margin-left: 780px;
+        margin-top: 270px;
+    }
+    .cont{
+        border: 2px solid gray;
+        width: 350px;
+        height: 450px;
+        background: transparent;
+        margin-left:500px;
+        margin-top: -550px;
+        border-radius: 10px;
+        box-shadow: 0px 0px 40px gray;
+    }
+    h1{
+        margin-left: 120px;
+    }
+    label{
+        margin-left: 40px;
+    }
+    input{
+    background-color:  transparent;
+    color: white;
+
+    width: 250px;
+    height: 30px;
+    margin-left: 40px;
+    border-radius: 5px;
+    }
+    .log{
+        background-color: white;
+        width: 260px;
+        margin-left: 40px;
+        height: 40px;
+        border-radius: 10px;
+        border:none;
+    }
+    .log:hover{
+    background-color:red;
+    }
+    
+    .sign{
+    text-decoration:none;
+    color:white;
+    margin-left:100px;
+    }
+    .sign button{
+    width:200px;
+    height:35px;
+    margin-left:-30px;
+    border:none;
+    border-radius:10px;
+    }
+    .sign button:hover{
+    background-color:red;
+    }

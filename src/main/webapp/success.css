@@ -1,0 +1,28 @@
+body{
+        background-color: orange;
+        background-size: cover;
+        background-attachment: fixed;
+    }
+    button{
+    width:200px;
+    height:40px;
+    border:none;
+    margin-left:670px;
+    margin-top:30px;
+    border-radius:15px;
+    }
+    button:hover{
+    background-color:blue;
+    }
+    button:active{
+    background-color:red;
+    }
+  h1{
+	font-size:60px;
+    margin-left:350px;
+    margin-top:140px;
+    }
+    p{
+    margin-left:350px;
+    font-size:17px;
+    }

@@ -1,0 +1,15 @@
+@charset "UTF-8";
+h1{
+	color:blue;
+	font-size:45px;
+	margin-left:550px;
+	
+}
+.foodie{
+	position:relative;
+	top:100px;
+	left:10%;
+	width:80%;
+	height:auto;
+	border:1px solid black;
+}

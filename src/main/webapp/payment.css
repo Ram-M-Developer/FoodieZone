@@ -1,0 +1,27 @@
+@charset "UTF-8";
+
+h1{
+	color:blue;
+	font-size:45px;
+	margin-left:550px;
+	
+}
+.cont_pay{
+	position:relative;
+	top:100px;
+	left:10%;
+	width:80%;
+	height:auto;
+	border:1px solid black;
+	
+}
+
+.but1{
+	width:100px;
+	height:40px;
+	margin-left:300px;
+}
+.but2{
+	width:100px;
+	height:40px;
+}
